@@ -14,7 +14,7 @@ Também estou iniciando os estudos em:
 
 <p>
 <a href="https://www.linkedin.com/in/leonardo-moreira-bb90b73b7/" target="_blank">
-    <img align="center" alt="logo-linkedin" width="20px" src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-dhkaf9ri.png">
+    <img align="center" alt="logo-linkedin" width="20px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000">
   </a>
 <a href="https://www.instagram.com/leomiguel1/" target="_blank">
     <img align="center" alt="logo-instagram" width="24px" src="https://cdn.icon-icons.com/icons2/3406/PNG/512/instagram_logo_icon_216343.png">
