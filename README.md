@@ -13,7 +13,7 @@ Também estou iniciando os estudos em:
 ### Conecte-se comigo nas redes abaixo:
 
 <p>
-<a href="https://www.linkedin.com/in/leonardo-miguel-21b863a9/" target="_blank">
+<a href="https://www.linkedin.com/in/leonardo-moreira-bb90b73b7/" target="_blank">
     <img align="center" alt="logo-linkedin" width="20px" src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-dhkaf9ri.png">
   </a>
 <a href="https://www.instagram.com/leomiguel1/" target="_blank">
